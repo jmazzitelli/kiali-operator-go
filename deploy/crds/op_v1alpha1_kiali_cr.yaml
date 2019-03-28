@@ -1,0 +1,7 @@
+apiVersion: op.kiali.io/v1alpha1
+kind: Kiali
+metadata:
+  name: example-kiali
+spec:
+  # Add fields here
+  size: 3
